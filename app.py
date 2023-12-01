@@ -115,5 +115,5 @@ if __name__ == '__main__':
     # chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
     # webbrowser.get(chrome_path).open('file://' + os.path.realpath('view/index.html'))
     # app.run(port=5000)    
-    app.run(host='0.0.0.0', debug=True)
+    app.run(host='0.0.0.0')
    
